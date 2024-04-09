@@ -43,5 +43,15 @@
 &trans      &trans        &rgb_ug RGB_TOG                        &trans  &trans  &trans  &trans  &kp C_VOLUME_DOWN
             >;
         };
+
+        layer_2 {
+            bindings = <
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans          &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
+            >;
+        };
     };
 };
